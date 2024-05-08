@@ -1,5 +1,6 @@
 # EX: 5 INFORMATION RETRIEVAL USING BOOLEAN MODEL IN PYTHON
 
+## DATE: 
 
 ## AIM: To implement Information Retrieval Using Boolean Model in Python.
 ## Description:
